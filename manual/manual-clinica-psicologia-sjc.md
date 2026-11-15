@@ -20,9 +20,10 @@ Versão de 15 de novembro de 2026.
 
 ## Como usar este manual
 
-- Cada seção traz **o que fazer**, **o que é proibido** e **a norma que embasa**.
+- Cada seção resume as obrigações, as vedações e as recomendações práticas do tema, sempre com a
+  **norma que embasa** cada ponto.
 - As referências aparecem entre colchetes, como **[N12]**, e remetem à
-  [lista de referências](#referências) no fim. Ali estão o arquivo local (em `../normas/`) e o
+  [lista de referências](#23-referências) no fim. Ali estão o arquivo local (em `../normas/`) e o
   link oficial.
 - **[N#]** são normas do acervo (cópia local em `../normas/` e link oficial). **[W#]** são normas
   **fora do acervo** (Código de Ética, Res. CFP 1/2009, RDCs da ANVISA, RNs da ANS, normas
@@ -53,7 +54,7 @@ Versão de 15 de novembro de 2026.
 20. [Calendário de obrigações](#20-calendário-de-obrigações)
 21. [Checklist de abertura e funcionamento](#21-checklist-de-abertura-e-funcionamento)
 22. [Contatos úteis](#22-contatos-úteis)
-23. [Referências](#referências)
+23. [Referências](#23-referências)
 
 ---
 
@@ -111,8 +112,8 @@ incluiu a residência multiprofissional como categoria de registro [N46].
 
 | Formato | Observações |
 | --- | --- |
-| **Profissional autônoma(o) (pessoa física)** | Inscrição municipal como autônomo para o ISS; IRPF via carnê-leão; emissão obrigatória do **Receita Saúde** [N37]. Psicologia (8650-0/03) dispensa licença sanitária [W5a, W5b]. |
-| **Empresário individual / sociedade (pessoa jurídica)** | CNPJ, contrato social, inscrição municipal, registro no CRP-06 como PJ [N23], CNES [W1]; licença sanitária só se houver outro CNAE licenciável [W5a]. |
+| **Profissional autônoma(o) (pessoa física)** | Inscrição municipal como autônomo para o ISS; IRPF via carnê-leão; emissão obrigatória do **Receita Saúde** [N37]; cadastro no **CNES** como consultório isolado [W1, W11]. Psicologia (8650-0/03) dispensa licença sanitária [W5, W5a, W5b]. |
+| **Empresário individual / sociedade (pessoa jurídica)** | CNPJ, contrato social, inscrição municipal, registro no CRP-06 como PJ [N23], CNES [W1]; licença sanitária só se houver outro CNAE licenciável [W5, W5a]. |
 | **MEI** | O MEI só pode exercer as ocupações do **Anexo XI** da Res. CGSN 140/2018 [N36]. Psicologia é profissão regulamentada e, em regra, **não figura nessa lista** — a tabela do anexo não está no texto do acervo, então confirme no Portal do Simples [W16] ou com o contador. |
 
 **CNAE:** 8650-0/03 — *Atividades de psicologia e psicanálise* (CONCLA/IBGE) [W13].
@@ -126,11 +127,11 @@ A Res. CFP 16/2019 detalha [N23]:
   **Cadastro** (sem anuidade) é para quem presta psicologia como atividade **secundária**
   (arts. 9º e 11).
 - **Documentos para o registro** (art. 3º): ato constitutivo registrado, CNPJ, alvarás de
-  funcionamento, certidão negativa e contrato ou CTPS do(a) responsável técnico(a), e registro
+  funcionamento, certidão negativa e contrato ou CTPS da(o) responsável técnica(o), e registro
   em outro conselho, se houver.
 - **Condições** (art. 4º): serviços na área da psicologia; declaração de que garante autonomia
   técnica às psicólogas(os) e local adequado (em especial a **guarda de material privativo**);
-  indicação de **responsável técnico(a) (RT)** com inscrição ativa e vínculo comprovado.
+  indicação de **responsável técnica(o) (RT)** com inscrição ativa e vínculo comprovado.
   O **nome fantasia** não pode induzir a práticas estranhas à psicologia.
 - **Certificado de registro** válido por **3 anos**, a ser **afixado em local visível**; a
   renovação deve ser pedida com **no mínimo 60 dias** de antecedência (art. 5º).
@@ -146,9 +147,9 @@ A Res. CFP 16/2019 detalha [N23]:
 - O CRP faz a primeira ação de orientação/fiscalização em até **120 dias** do pedido
   (art. 16, § 2º).
 
-### 3.3 Responsável técnico(a)
+### 3.3 Responsável técnica(o)
 
-Deveres do(a) RT (Res. CFP 16/2019, art. 13) [N23]:
+Deveres da(o) RT (Res. CFP 16/2019, art. 13) [N23]:
 
 1. acompanhar com frequência os serviços de psicologia prestados;
 2. zelar pelo cumprimento das normas legais e éticas, pela qualidade dos serviços, pela guarda do
@@ -238,13 +239,13 @@ confirmados com o CRP-06 (CRP Orienta) [W22]:
 - **Tributos:** a receita de cessão de salas não é receita de psicologia. Trate com o contador o
   enquadramento, em especial se a clínica é sociedade uniprofissional no ISS Fixo
   ([seção 5.1](#51-iss-municipal)).
-- **Não psicólogos no mesmo espaço:** ver [seção 6](#6-equipe-contratação-e-estágio).
+- **Não psicólogas(os) no mesmo espaço:** ver [seção 6](#6-equipe-contratação-e-estágio).
 
 ### 3.7 Encerramento
 
 O cancelamento do registro no CRP exige comprovar o fim das atividades (distrato, baixa do CNPJ ou
 da inscrição municipal) e informar o **destino dos arquivos** de psicologia (Res. CFP 16/2019,
-art. 17) [N23]. Na extinção do serviço, o(a) psicólogo(a) responsável informa o CRP, que providencia
+art. 17) [N23]. Na extinção do serviço, a(o) psicóloga(o) responsável informa o CRP, que providencia
 a destinação dos arquivos confidenciais (Código de Ética, art. 15, § 2º) [W28].
 
 ---
@@ -260,7 +261,8 @@ a destinação dos arquivos confidenciais (Código de Ética, art. 15, § 2º) [
 - **Psicologia (CNAE 8650-0/03) não consta do Anexo I.** O próprio anexo avisa que *"as
   atividades previstas na tabela original do IBGE que não constam deste Anexo I, não são passíveis
   de Licença Sanitária"*; no grupo 8650 só aparecem enfermagem (8650-0/01) e centro de reabilitação
-  física (8650-0/04) [W5a]. A Vigilância Sanitária de Rio Claro confirma: *"Atividades de Psicologia
+  física (8650-0/04) [W5; cópia do anexo em W5a]. A Vigilância Sanitária de Rio Claro, em informativo
+  próprio, chega à mesma leitura: *"Atividades de Psicologia
   e Psicanálise — 8650-0/03"* estão **isentas do licenciamento sanitário desde 05/01/2024** [W5b].
 - **Na prática:** uma clínica que exerce **só psicologia** não precisa obter nem renovar licença
   sanitária. Isso **não a dispensa** das boas práticas sanitárias (seção 4.2), do cadastro no CNES,
@@ -376,7 +378,7 @@ Segundo a Prefeitura [W10]:
 
 ### 5.3 Receita Saúde (profissional pessoa física)
 
-Desde **1º/01/2025**, o **psicólogo pessoa física** é **obrigado** a emitir o **Recibo Eletrônico de
+Desde **1º/01/2025**, a(o) **psicóloga(o) pessoa física** é **obrigada(o)** a emitir o **Recibo Eletrônico de
 Serviços de Saúde — Receita Saúde**, pelo App Receita Federal, **no momento do pagamento**; cada
 pagamento gera um recibo. A não emissão ou a emissão incorreta sujeita a multa (IN RFB 2.240/2024,
 arts. 2º a 5º e 12) [N37]. Os valores recebidos de pessoas físicas entram no **carnê-leão**
@@ -429,7 +431,7 @@ confirme com o contador o que a clínica deve declarar.
   acessórias, e as alíquotas de teste não se aplicam a optantes do Simples (LC 214/2025, art. 348,
   III, "c", e § 1º) [W32].
 - **Psicologia tem redução de 60%** nas alíquotas do IBS e da CBS: "Serviços de psicologia", NBS
-  1.2301.98.00, item 17 do Anexo III (LC 214/2025, art. 130) [W32, W42]. Psicólogos **não**
+  1.2301.98.00, item 17 do Anexo III (LC 214/2025, art. 130) [W32, W42]. Psicólogas(os) **não**
   estão na lista de profissões com redução de 30% (art. 127).
 - **Pessoa física:** é contribuinte quem fornece serviços de forma profissional, ainda que a
   profissão não seja regulamentada (art. 21, I, "c"). Não é contribuinte o **nanoempreendedor**,
@@ -462,10 +464,10 @@ confirme com o contador o que a clínica deve declarar.
   e nos TRTs, ainda sem tese fixada [W44]. Acompanhe com advogado trabalhista.
 - **Empregados:** confirme com o contador se há convenção coletiva aplicável (piso, reajuste,
   jornada) e o INSS da folha ([seção 5.6](#56-inss-previdência)).
-- **Não psicólogos no mesmo espaço** (terapeutas holísticos, coaches, psicanalistas sem formação
+- **Não psicólogas(os) no mesmo espaço** (terapeutas holísticos, coaches, psicanalistas sem formação
   em psicologia): não podem usar métodos e técnicas privativos (Lei 4.119/1962, art. 13, § 1º)
   [N1], aplicar testes psicológicos ([seção 10](#10-avaliação-psicológica-e-testes-satepsi)) nem
-  se apresentar como psicólogos. Exercer ou anunciar profissão sem preencher as condições legais é
+  se apresentar como psicólogas(os). Exercer ou anunciar profissão sem preencher as condições legais é
   **contravenção penal** (Decreto-Lei 3.688/1941, art. 47) [N57], e a PJ registrada que acoberta
   pessoa não habilitada comete infração (Res. CFP 16/2019, art. 18, II) [N23]. Deixe a distinção
   clara na divulgação e na agenda.
@@ -634,14 +636,14 @@ endereço do paciente, CAPS/SAMU de referência) e registre o consentimento.
 
 ## 10. Avaliação psicológica e testes (SATEPSI)
 
-**Res. CFP 31/2022** (revogou a Res. 9/2018) [W11a] (texto consultado no LegisWeb):
+**Res. CFP 31/2022** (revogou a Res. 9/2018) [W11a]:
 
 - A decisão na avaliação psicológica deve basear-se **obrigatoriamente** em **fontes
   fundamentais**: testes aprovados pelo CFP, entrevistas e anamneses, protocolos ou registros de
   observação (arts. 2º e 3º). **Fontes complementares**: técnicas não psicológicas com respaldo
   científico e documentos técnicos de equipes (art. 4º).
-- O psicólogo escolhe métodos e instrumentos, desde que fundamentados (art. 5º).
-- **Uso de testes é privativo do psicólogo** (art. 8º; Lei 4.119/1962, art. 13 [N1]). Testes,
+- A(o) psicóloga(o) escolhe métodos e instrumentos, desde que fundamentados (art. 5º).
+- **Uso de testes é privativo da(o) psicóloga(o)** (art. 8º; Lei 4.119/1962, art. 13 [N1]). Testes,
   escalas, inventários, questionários e métodos projetivos/expressivos são testes psicológicos
   (art. 10).
 - Aplicação, correção e interpretação devem seguir **rigorosamente o manual técnico** aprovado
@@ -666,7 +668,7 @@ trabalhador (Res. CFP 2/2022) [N52].
 
 ## 11. Documentos psicológicos
 
-**Res. CFP 6/2019** regula todo documento escrito do psicólogo [N22].
+**Res. CFP 6/2019** regula todo documento escrito da(o) psicóloga(o) [N22].
 
 ### 11.1 Modalidades (art. 8º)
 
@@ -692,7 +694,7 @@ trabalhador (Res. CFP 2/2022) [N52].
 - **Entrega direta** ao beneficiário, responsável ou solicitante, com **protocolo de entrega
   assinado** (art. 16).
 - **Guarda mínima de 5 anos** dos documentos e do material que os fundamentou, física ou digital;
-  responsabilidade do psicólogo junto com a instituição (art. 15).
+  responsabilidade da(o) psicóloga(o) junto com a instituição (art. 15).
 - Na psicoterapia, o documento deve declarar seu propósito e as ressalvas de uso (Res. CFP
   13/2022, art. 3º, III) [N24].
 
@@ -717,19 +719,21 @@ registro (art. 11, § 3º).
 
 **Prontuário eletrônico.** A Lei 13.787/2018 rege a digitalização e a guarda informatizada de
 prontuários, junto com a LGPD: integridade, autenticidade e confidencialidade (arts. 1º e 2º);
-prontuários em papel e digitalizados podem ser eliminados após **20 anos** do último registro
-(art. 6º) [N4].
+prontuários em papel e digitalizados só podem ser eliminados depois de **no mínimo 20 anos** do
+último registro (art. 6º) [N4].
 
 **Prazos de guarda — como conciliar:**
 
 | Norma | Prazo | Alcance |
 | --- | --- | --- |
 | Res. CFP 6/2019, art. 15 [N22] | **mínimo de 5 anos** (ampliável por lei, ordem judicial ou circunstância) | documentos e material que os fundamentou |
-| Lei 13.787/2018, art. 6º [N4] | eliminação permitida **após 20 anos** do último registro | prontuário de paciente (papel ou digitalizado) |
+| Lei 13.787/2018, art. 6º [N4] | **mínimo de 20 anos** do último registro (só depois disso o prontuário pode ser eliminado) | prontuário de paciente (papel ou digitalizado) |
 
-> Recomendação prudente: a clínica, como serviço de saúde, deve adotar o prazo maior aplicável
-> ao prontuário e documentar sua política de retenção e descarte. Confirme o entendimento
-> vigente com o CRP-06.
+> **Ponto em aberto:** a Lei 13.787/2018 fala em "prontuário de paciente" e não diz se alcança o
+> registro documental da psicologia, para o qual a Res. CFP 6/2019 fixa só o mínimo de 5 anos.
+> Recomendação prudente: a clínica, como serviço de saúde, guarda o prontuário por **no mínimo
+> 20 anos** do último registro e documenta sua política de retenção e descarte. Confirme o
+> entendimento vigente com o CRP-06.
 
 **Separação de informações.** Em prontuário multiprofissional, registre só o necessário aos
 objetivos do trabalho (Código de Ética, art. 12 [W28]); anotações técnicas sensíveis ficam no
@@ -752,7 +756,7 @@ posterior; na extinção do serviço, comunicar o CRP (Código de Ética, art. 1
 - Em notificações compulsórias, depoimentos em juízo e outros casos legais: prestar só o
   necessário, considerar vulnerabilidades, usar formulários e sistemas de políticas públicas que
   garantam sigilo e responder ao Judiciário com documentos no padrão da Res. 6/2019 (Res. CFP
-  13/2022, art. 10) [N24]. Ao depor, o psicólogo pode prestar informações observando o Código
+  13/2022, art. 10) [N24]. Ao depor, a(o) psicóloga(o) pode prestar informações observando o Código
   (art. 11) [W28].
 - Com outros profissionais, compartilhe só o relevante e avise que quem recebe também deve guardar
   sigilo (Código de Ética, art. 6º, "b") [W28].
@@ -942,7 +946,7 @@ Disciplinar (Res. CFP 11/2019 [W45], alterada pela Res. CFP 26/2025 [N63]):
   punibilidade do profissional liberal, interrompidos pela notificação, e manda arquivar o
   processo parado há mais de 3 anos (arts. 1º a 3º) [N55].
 - **Na prática:** o registro documental e os contratos são a sua prova. Responda dentro do prazo
-  e, se quiser, constitua procurador(a).
+  e, se quiser, constitua procuradora(or).
 
 **Vigilância Sanitária.** Infrações seguem a Lei 6.437/1977 [N19] e o Código Sanitário Estadual
 [N18]: advertência, multa, interdição, cancelamento da licença, entre outras.
@@ -976,7 +980,7 @@ Disciplinar (Res. CFP 11/2019 [W45], alterada pela Res. CFP 26/2025 [N63]):
 | **Até 30 dias úteis** após a saída do RT | Comunicar o CRP-06 a troca de RT (sem RT, a PJ não pode atender) | Res. CFP 16/2019, art. 14 [N23] |
 | **A cada mudança** | Atualizar CNES; informar à Visa troca de RT/responsável legal (se licenciada); enviar alteração contratual ao CRP | RDC 63/2011, arts. 13 e 14 [W1]; Decreto 20.211/2026, art. 6º [W8]; Res. CFP 16/2019, art. 15 [N23] |
 | **Antes de cada teste** | Conferir situação do teste e da modalidade no SATEPSI | Res. CFP 31/2022 [W11a] |
-| **Contínuo** | Guardar documentos por no mínimo 5 anos e prontuários conforme a política de retenção (até 20 anos) | Res. CFP 6/2019 [N22]; Lei 13.787/2018 [N4] |
+| **Contínuo** | Guardar documentos por no mínimo 5 anos e prontuários por no mínimo 20 anos do último registro, conforme a política de retenção | Res. CFP 6/2019 [N22]; Lei 13.787/2018 [N4] |
 
 ---
 
@@ -997,7 +1001,7 @@ Disciplinar (Res. CFP 11/2019 [W45], alterada pela Res. CFP 26/2025 [N63]):
       arquivos e LGPD (seção 3.6) [N23, N5]
 - [ ] Conferir cada CNAE da clínica no Anexo I da Portaria CVS 1/2024: só psicologia (8650-0/03)
       dispensa licença sanitária; outro CNAE licenciável exige licença (CLI, se PJ de risco médio)
-      [W5a, W5b, W7]
+      [W5, W5a, W5b, W7]
 - [ ] Confirmar com a Visa de SJC o tratamento dos resíduos (notificação de Grupo D ou PGRSS) [W2]
 - [ ] Cadastro no CNES [W1, W11]
 - [ ] Registro da PJ no CRP-06 (pedido on-line) com RT indicado e vínculo comprovado [N23, W27]
@@ -1024,7 +1028,7 @@ Disciplinar (Res. CFP 11/2019 [W45], alterada pela Res. CFP 26/2025 [N63]):
 ### Afixar em local visível
 
 - [ ] Certificado de registro da PJ no CRP-06 [N23]
-- [ ] Licença sanitária, se algum CNAE da clínica for licenciável [W1, W5a]
+- [ ] Licença sanitária, se algum CNAE da clínica for licenciável [W1, W5]
 - [ ] Um exemplar do **Código de Defesa do Consumidor**, em local visível e de fácil acesso (multa
       de até R$ 1.064,10) (Lei 12.291/2010, arts. 1º e 2º) [N56]
 
@@ -1048,7 +1052,7 @@ Disciplinar (Res. CFP 11/2019 [W45], alterada pela Res. CFP 26/2025 [N63]):
 
 ---
 
-## Referências
+## 23. Referências
 
 Arquivos locais relativos a esta pasta (`manual/`). Os textos do acervo são conversões
 informativas: o link **oficial** é a fonte a citar. Páginas web consultadas em 15/11/2026.
@@ -1131,15 +1135,15 @@ informativas: o link **oficial** é a fonte a citar. Páginas web consultadas em
 | W3 | RDC ANVISA 50/2002 — infraestrutura física de estabelecimentos de saúde | https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html |
 | W4 | ANS — Parecer Técnico 39/2022 (RN 465/2021, 539/2022 e 541/2022) | https://www.gov.br/ans/pt-br/arquivos/acesso-a-informacao/transparencia-institucional/pareceres-tecnicos-da-ans/2022/PARECER_TCNICO_N_39_2022_TERAPIAS_E_MTODOS__TRANSTORNO_DO_ESPECTRO_AUTISTA_RN_539.2022_RN_541.2022.pdf |
 | W5 | Portaria CVS 1/2024 — licenciamento sanitário no Estado de SP (bloqueia acesso automatizado; abrir no navegador) | https://cvs.saude.sp.gov.br/zip/E_PT-CVS-1_050124.pdf |
-| W5a | Anexo I da Portaria CVS 1/2024 — cópia publicada pela Prefeitura de Santos | https://www.santos.sp.gov.br/static/files_www/files/portal_files/SAUDE/cvs-1-de-9-de-fevereiro-de-2024-lista_de_atividade_licenca.pdf |
-| W5b | Vigilância Sanitária de Rio Claro — Informativo sobre a Portaria CVS 1/2024 (atividades isentas) | https://saude-rioclaro.org.br/VIGILANCIA%20SANITARIA/comunicado.pdf |
+| W5a | Anexo I da Portaria CVS 1/2024 — cópia não oficial publicada pela Prefeitura de Santos (confira no CVS, W5) | https://www.santos.sp.gov.br/static/files_www/files/portal_files/SAUDE/cvs-1-de-9-de-fevereiro-de-2024-lista_de_atividade_licenca.pdf |
+| W5b | Vigilância Sanitária de Rio Claro — informativo sobre a Portaria CVS 1/2024 (atividades isentas); interpretação de outro município, não de SJC | https://saude-rioclaro.org.br/VIGILANCIA%20SANITARIA/comunicado.pdf |
 | W6 | Prefeitura de SJC — Licença sanitária | https://www.sjc.sp.gov.br/servicos/saude/vigilancia-sanitaria/licenca-sanitaria/ |
 | W7 | Prefeitura de SJC — Licenciamento inicial, nível de risco médio | https://www.sjc.sp.gov.br/servicos/saude/vigilancia-sanitaria/licenca-sanitaria/como-solicitar-o-licenciamento-sanitario-inicial/nivel-de-risco-medio/ |
 | W8 | Decreto municipal SJC 20.211/2026 — renovação da licença, inspeções e cursos | https://servicos.sjc.sp.gov.br/Legislacao/Arquivos/Decretos/2026/DE_2026_00020211.pdf |
 | W9 | Prefeitura de SJC — ISS Eletrônico | https://sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/emissao-da-nfe/iss-eletronico/ |
 | W10 | Prefeitura de SJC — NFS-e Nacional: perguntas e respostas (atualizado em maio/2026) | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/reforma-tributaria/nota-nacional/perguntas-e-respostas/ |
 | W11 | CNES — Cadastro Nacional de Estabelecimentos de Saúde | https://cnes.datasus.gov.br/ |
-| W11a | Res. CFP 31/2022 — avaliação psicológica e SATEPSI | https://www.legisweb.com.br/legislacao/?id=473938 |
+| W11a | Res. CFP 31/2022 — avaliação psicológica e SATEPSI (Atos Oficiais do CFP; recusa acesso automatizado, abrir no navegador) | https://atosoficiais.com.br/cfp/resolucao-do-exercicio-profissional-n-31-2022-estabelece-diretrizes-para-a-realizacao-de-avaliacao-psicologica-no-exercicio-profissional-da-psicologa-e-do-psicologo-regulamenta-o-sistema-de-avaliacao-de-testes-psicologicos-satepsi-e-revoga-a-resolucao-cfp-no-09-2018 |
 | W11b | SATEPSI | https://satepsi.cfp.org.br/ |
 | W12 | Cadastro Nacional de Psicólogas(os) | https://cadastro.cfp.org.br/ |
 | W13 | CONCLA/IBGE — CNAE 8650-0/03 (abrir no navegador) | https://concla.ibge.gov.br/busca-online-cnae.html?subclasse=8650003 |
@@ -1163,7 +1167,7 @@ informativas: o link **oficial** é a fonte a citar. Páginas web consultadas em
 | W31 | Res. CFP 1/1999 e 1/2018 — orientação sexual e identidade de gênero (Atos Oficiais do CFP) | https://atosoficiais.com.br/cfp |
 | W32 | LC 214/2025 — IBS, CBS e Imposto Seletivo (reforma tributária do consumo); o arquivo do acervo traz só os metadados, sem o texto. Texto compilado (com a LC 227/2026) no Planalto | https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2025-01-16;214 · https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm |
 | W33 | Emenda Constitucional 132/2023 — reforma tributária | https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:2023-12-20;132 |
-| W34 | Res. CD/ANPD 15/2024 — regulamento de comunicação de incidente de segurança | https://www.legisweb.com.br/legislacao/?id=458235 |
+| W34 | Res. CD/ANPD 15/2024 — regulamento de comunicação de incidente de segurança (DOU) | https://www.in.gov.br/web/dou/-/resolucao-cd/anpd-n-15-de-24-de-abril-de-2024-556243024 |
 | W35 | Prefeitura de SJC — ISS Fixo (definição, valores, pagamento e legislação: LC municipal 272/2003) | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/iss-fixo/ |
 | W36 | Prefeitura de SJC — ISS Fixo da sociedade uniprofissional (requisitos) | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/iss-fixo/sociedade-uniprofissional/ |
 | W37 | Receita Federal — Dmed (Declaração de Serviços Médicos e de Saúde; IN RFB 2.074/2022) | https://www.gov.br/pt-br/servicos/declarar-servicos-medicos-e-da-saude |
