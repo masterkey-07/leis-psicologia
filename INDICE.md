@@ -872,5 +872,8 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 
 As resoluções da ANVISA aplicáveis a consultórios (RDC 50/2002, 63/2011 e 222/2018), o texto
 base do Rol da ANS (RN 465/2021) e as RNs 539 e 541/2022 (fim do limite de sessões de
-psicologia), o Código de Ética do CFP (Res. 10/2005) e as normas de São José dos Campos não
-fazem parte do acervo. Os links oficiais estão em [REFERENCIAS.md](REFERENCIAS.md).
+psicologia), o Código de Ética do CFP (Res. 10/2005), as resoluções CFP 1/2009 (registro
+documental), 31/2022 (avaliação psicológica e SATEPSI) e 8/2023 (altera a anuidade de PJ da
+Res. 16/2019), a Portaria CVS 1/2024 (licenciamento sanitário em SP) e as normas de São José dos
+Campos não fazem parte do acervo. Os links oficiais estão em [REFERENCIAS.md](REFERENCIAS.md); as
+resoluções do CFP podem ser consultadas em https://atosoficiais.com.br/cfp.
