@@ -4,7 +4,7 @@ This folder is a curated legal reference for running a **psychology clinic (clí
 psicologia) in São José dos Campos, São Paulo, Brazil**. It collects every norm that governs,
 involves or touches on that activity, plus official websites and agencies to consult.
 
-It is a subset of the parent repository (`../`), a corpus of Brazilian legislation converted to
+It is a subset of the parent repository (`../`, https://github.com/ctresb/leis), a corpus of Brazilian legislation converted to
 Markdown. Nothing here is original legal text written by hand: the norms are **byte-for-byte
 copies** of files from the parent corpus.
 

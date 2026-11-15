@@ -3,7 +3,7 @@
 Seleção feita a partir do acervo deste repositório para uma clínica em São José dos Campos/SP:
 normas federais, atos de reguladores (CFP, CRP-06/SP, Ministério da Saúde, CNS, ANS, Receita Federal…),
 legislação do Estado de São Paulo, jurisprudência e tratados. Os arquivos em `normas/` são
-cópias fiéis do acervo. Consulte também [REFERENCIAS.md](REFERENCIAS.md).
+cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte também [REFERENCIAS.md](REFERENCIAS.md).
 
 > Textos informativos; não substituem a publicação oficial. Confira a fonte antes de citar.
 

@@ -70,6 +70,7 @@ A Câmara só respondeu por `http://` no teste.
 
 | Referência | Para que serve | Link |
 | --- | --- | --- |
+| Acervo de origem — [ctresb/leis](https://github.com/ctresb/leis) | Repositório de legislação brasileira em Markdown do qual as normas de `normas/` foram copiadas | https://github.com/ctresb/leis |
 | Planalto — Legislação | Texto oficial e compilado das leis federais | https://www4.planalto.gov.br/legislacao/ |
 | LexML Brasil | Busca unificada de legislação e jurisprudência | https://www.lexml.gov.br/ |
 | Diário Oficial da União | Publicação oficial de resoluções do CFP, ANS, ANVISA etc. | https://www.in.gov.br/ |
