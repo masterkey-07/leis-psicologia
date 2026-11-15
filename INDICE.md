@@ -7,20 +7,20 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 
 > Textos informativos; não substituem a publicação oficial. Confira a fonte antes de citar.
 
-**Total: 712 normas.**
+**Total: 724 normas.**
 
 | Categoria | Normas |
 | --- | ---: |
 | Constituição | 1 |
-| Profissão de psicólogo | 5 |
+| Profissão de psicólogo | 6 |
 | Saúde mental e SUS | 9 |
 | Telessaúde | 2 |
 | Dados, prontuário e internet | 3 |
-| Públicos vulneráveis | 9 |
-| Consumidor, civil e penal | 3 |
-| Planos de saúde | 2 |
-| Sanitário, tributário e trabalhista | 6 |
-| Estado de São Paulo — essenciais | 2 |
+| Públicos vulneráveis | 11 |
+| Consumidor, civil e penal | 5 |
+| Planos de saúde | 3 |
+| Sanitário, tributário e trabalhista | 10 |
+| Estado de São Paulo — essenciais | 4 |
 | Tratados | 3 |
 | Federal — outras normas sobre o tema | 43 |
 | Reguladores — INSS | 2 |
@@ -47,6 +47,7 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
 | [Lei 6.839/1980 — registro de empresas nos conselhos](normas/federal/leis-ordinarias/1980/lei-6839-1980-10-30.md) | 1980-10-30 | Dispõe sobre o registro de empresas nas entidades fiscalizadoras do   exercício de profissões. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1980-10-30;6839) |
+| [Lei 6.838/1980 — prescrição da punibilidade de profissional liberal](normas/federal/leis-ordinarias/1980/lei-6838-1980-10-29.md) | 1980-10-29 | Dispõe sobre o prazo prescricional para a punibilidade de profissional   liberal, por falta sujeita a processo disciplinar, a ser aplicada por órgão   competente. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1980-10-29;6838) |
 | [Decreto 79.822/1977 — regulamenta a Lei 5.766](normas/federal/decretos/1977/dec-79822-1977-06-17.md) | 1977-06-17 | REGULAMENTA A LEI 5.766, DE 20 DE DEZEMBRO DE 1971, QUE CRIOU O CONSELHO FEDERAL E OS CONSELHOS REGIONAIS DE PSICOLOGIA E DA OUTRAS PROVIDENCIAS. | ? | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1977-06-17;79822) |
 | [Lei 5.766/1971 — cria CFP e CRPs](normas/federal/leis-ordinarias/1971/lei-5766-1971-12-20.md) | 1971-12-20 | Cria o Conselho Federal e os Conselhos Regionais de Psicologia e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1971-12-20;5766) |
 | [Decreto 53.464/1964 — regulamenta a Lei 4.119](normas/federal/decretos/1964/dec-53464-1964-01-21.md) | 1964-01-21 | REGULAMENTA A LEI 4.119, DE 27 DE AGOSTO DE 1962, QUE DISPÕE SOBRE A PROFISSÃO DE PSICOLOGO. | ? | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1964-01-21;53464) |
@@ -85,6 +86,7 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
+| [Lei 14.344/2022 — Lei Henry Borel (violência contra criança e adolescente)](normas/federal/leis-ordinarias/2022/lei-14344-2022-05-24.md) | 2022-05-24 | Cria mecanismos para a prevenção e o enfrentamento da violência doméstica e familiar contra a criança e o adolescente, nos termos do § 8º do art. 226 e do § 4º do art. 227 da Constituição Federal e das disposições especí… | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-05-24;14344) |
 | [Lei 13.935/2019 — psicologia e serviço social nas escolas](normas/federal/leis-ordinarias/2019/lei-13935-2019-12-11.md) | 2019-12-11 | Dispõe sobre a prestação de serviços de psicologia e de serviço social nas redes públicas de educação básica. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2019-12-11;13935) |
 | [Lei 13.431/2017 — escuta especializada de crianças](normas/federal/leis-ordinarias/2017/lei-13431-2017-04-04.md) | 2017-04-04 | Estabelece o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente). | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-04-04;13431) |
 | [Lei 13.185/2015 — combate ao bullying](normas/federal/leis-ordinarias/2015/lei-13185-2015-11-06.md) | 2015-11-06 | Institui o Programa de Combate à Intimidação Sistemática (Bullying). | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-11-06;13185) |
@@ -92,6 +94,7 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 | [Lei 12.764/2012 — Política do Autismo (TEA)](normas/federal/leis-ordinarias/2012/lei-12764-2012-12-27.md) | 2012-12-27 | Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2012-12-27;12764) |
 | [Decreto 6.949/2009 — Convenção sobre Direitos das Pessoas com Deficiência](normas/federal/decretos/2009/dec-6949-2009-08-25.md) | 2009-08-25 | PROMULGA A CONVENÇÃO INTERNACIONAL SOBRE OS DIREITOS DAS PESSOAS COM DEFICIENCIA E SEU PROTOCOLO FACULTATIVO, ASSINADOS EM NOVA YORK, EM 30 DE MARÇO DE 2007. | ? | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2009-08-25;6949) |
 | [Lei 11.340/2006 — Maria da Penha](normas/federal/leis-ordinarias/2006/lei-11340-2006-08-07.md) | 2006-08-07 | Cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres… | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2006-08-07;11340) |
+| [Lei 10.778/2003 — notificação compulsória da violência contra a mulher](normas/federal/leis-ordinarias/2003/lei-10778-2003-11-24.md) | 2003-11-24 | Estabelece a notificação compulsória, no território nacional, do caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-11-24;10778) |
 | [Lei 10.741/2003 — Estatuto da Pessoa Idosa](normas/federal/leis-ordinarias/2003/lei-10741-2003-10-01.md) | 2003-10-01 | Dispõe sobre o Estatuto da Pessoa Idosa e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741) |
 | [Lei 8.069/1990 — ECA](normas/federal/leis-ordinarias/1990/lei-8069-1990-07-13.md) | 1990-07-13 | Dispõe sobre o ESTATUTO DA CRIANÇA E DO ADOLESCENTE, e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-07-13;8069) |
 
@@ -99,14 +102,17 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
+| [Lei 12.291/2010 — exemplar do CDC no estabelecimento](normas/federal/leis-ordinarias/2010/lei-12291-2010-07-20.md) | 2010-07-20 | Torna obrigatória a manutenção de exemplar do Código de Defesa do Consumidor nos estabelecimentos comerciais e de prestação de serviços. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2010-07-20;12291) |
 | [Lei 10.406/2002 — Código Civil](normas/federal/leis-ordinarias/2002/lei-10406-2002-01-10.md) | 2002-01-10 | Institui o Código Civil. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2002-01-10;10406) |
 | [Lei 8.078/1990 — Código de Defesa do Consumidor](normas/federal/leis-ordinarias/1990/lei-8078-1990-09-11.md) | 1990-09-11 | Dispõe sobre a proteção do consumidor e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1990-09-11;8078) |
+| [Decreto-Lei 3.688/1941 — Lei das Contravenções Penais (exercício ilegal, art. 47)](normas/federal/decretos-lei/1941/del-3688-1941-10-03.md) | 1941-10-03 | Lei das Contravenções Penais. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1941-10-03;3688) |
 | [Decreto-Lei 2.848/1940 — Código Penal (sigilo, art. 154)](normas/federal/decretos-lei/1940/del-2848-1940-12-07.md) | 1940-12-07 | Código Penal. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848) |
 
 ## Planos de saúde
 
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
+| [Lei 14.454/2022 — cobertura fora do Rol da ANS](normas/federal/leis-ordinarias/2022/lei-14454-2022-09-21.md) | 2022-09-21 | Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde, para estabelecer critérios que permitam a cobertura de exames ou tratamentos de saúde que não estão incluídos no r… | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2022-09-21;14454) |
 | [Lei 9.961/2000 — cria a ANS](normas/federal/leis-ordinarias/2000/lei-9961-2000-01-28.md) | 2000-01-28 | Cria a Agência Nacional de Saúde Suplementar - ANS e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2000-01-28;9961) |
 | [Lei 9.656/1998 — planos de saúde](normas/federal/leis-ordinarias/1998/lei-9656-1998-06-03.md) | 1998-06-03 | Dispõe sobre os planos e seguros privados de assistência à saúde. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1998-06-03;9656) |
 
@@ -114,17 +120,23 @@ cópias fiéis do acervo [ctresb/leis](https://github.com/ctresb/leis). Consulte
 
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
+| [Lei 13.874/2019 — Liberdade Econômica (atividade de baixo risco)](normas/federal/leis-ordinarias/2019/lei-13874-2019-09-20.md) | 2019-09-20 | Institui a Declaração de Direitos de Liberdade Econômica; estabelece garantias de livre mercado; altera as Leis nos 10.406, de 10 de janeiro de 2002 (Código Civil), 6.404, de 15 de dezembro de 1976, 11.598, de 3 de dezem… | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2019-09-20;13874) |
 | [Lei 13.105/2015 — CPC (perícia psicológica)](normas/federal/leis-ordinarias/2015/lei-13105-2015-03-16.md) | 2015-03-16 | Código de Processo Civil. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2015-03-16;13105) |
 | [LC 123/2006 — Simples Nacional](normas/federal/leis-complementares/2006/lcp-123-2006-12-14.md) | 2006-12-14 | Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte; altera dispositivos das Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991, da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-… | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2006-12-14;123) |
 | [LC 116/2003 — ISS](normas/federal/leis-complementares/2003/lcp-116-2003-07-31.md) | 2003-07-31 | Dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza, de competência dos Municípios e do Distrito Federal, e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2003-07-31;116) |
+| [Lei 10.666/2003 — retenção do INSS do contribuinte individual (art. 4º)](normas/federal/leis-ordinarias/2003/lei-10666-2003-05-08.md) | 2003-05-08 | Dispõe sobre a concessão da aposentadoria especial ao cooperado de cooperativa de trabalho ou de produção e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-05-08;10666) |
 | [Lei 9.782/1999 — Sistema Nacional de Vigilância Sanitária / ANVISA](normas/federal/leis-ordinarias/1999/lei-9782-1999-01-26.md) | 1999-01-26 | Define o Sistema Nacional de Vigilância Sanitária, cria a Agência Nacional de Vigilância Sanitária, e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-26;9782) |
+| [Lei 8.212/1991 — custeio da Seguridade Social (INSS)](normas/federal/leis-ordinarias/1991/lei-8212-1991-07-24.md) | 1991-07-24 | Dispõe sobre a organização da Seguridade Social, institui Plano de Custeio, e dá outras providências. ; ; | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1991-07-24;8212) |
 | [Lei 6.437/1977 — infrações sanitárias](normas/federal/leis-ordinarias/1977/lei-6437-1977-08-20.md) | 1977-08-20 | Configura infrações à legislação sanitária federal, estabelece as sanções respectivas, e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1977-08-20;6437) |
+| [Decreto-Lei 406/1968 — ISS fixo de profissionais e sociedades (art. 9º)](normas/federal/decretos-lei/1968/del-406-1968-12-31.md) | 1968-12-31 | Estabelece normas gerais de direito financeiro, aplicáveis aos impostos sobre operações relativas à circulação de mercadorias e sobre serviços de qualquer natureza, e dá outras providências. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1968-12-31;406) |
 | [Decreto-Lei 5.452/1943 — CLT](normas/federal/decretos-lei/1943/del-5452-1943-05-01.md) | 1943-05-01 | Aprova a Consolidação das Leis do Trabalho. | não | [oficial](https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1943-05-01;5452) |
 
 ## Estado de São Paulo — essenciais
 
 | Norma | Data | Ementa | Revogada | Fonte |
 | --- | --- | --- | --- | --- |
+| [Decreto SP 69.118/2024 — Regulamento de Segurança Contra Incêndios](normas/estaduais/SP/decretos/2024/dec-69118-2024-12-09-id210303.md) | 2024-12-09 | Institui o regulamento de Segurança Contra Incêndios das edificações e áreas de risco no Estado de São Paulo e dá providências correlatas. | não | [oficial](https://www.al.sp.gov.br/norma/210303) |
+| [Lei SP 17.761/2023 — licenciamento simplificado por nível de risco](normas/estaduais/SP/leis-ordinarias/2023/lei-17761-2023-09-25-id208561.md) | 2023-09-25 | Institui procedimentos de licenciamento simplificado para exercício de atividades econômicas no Estado de São Paulo | não | [oficial](https://www.al.sp.gov.br/norma/208561) |
 | [Lei SP 10.241/1999 — direitos dos usuários de serviços de saúde](normas/estaduais/SP/leis-ordinarias/1999/lei-10241-1999-03-17-id7653.md) | 1999-03-17 | Dispõe sobre os direitos dos usuários dos serviços e das ações de saúde no Estado | sim | [oficial](https://www.al.sp.gov.br/norma/7653) |
 | [Lei SP 10.083/1998 — Código Sanitário do Estado](normas/estaduais/SP/leis-ordinarias/1998/lei-10083-1998-09-23-id7021.md) | 1998-09-23 | Dispõe sobre o Código Sanitário do Estado | não | [oficial](https://www.al.sp.gov.br/norma/7021) |
 
@@ -874,6 +886,8 @@ As resoluções da ANVISA aplicáveis a consultórios (RDC 50/2002, 63/2011 e 22
 base do Rol da ANS (RN 465/2021) e as RNs 539 e 541/2022 (fim do limite de sessões de
 psicologia), o Código de Ética do CFP (Res. 10/2005), as resoluções CFP 1/2009 (registro
 documental), 31/2022 (avaliação psicológica e SATEPSI) e 8/2023 (altera a anuidade de PJ da
-Res. 16/2019), a Portaria CVS 1/2024 (licenciamento sanitário em SP) e as normas de São José dos
-Campos não fazem parte do acervo. Os links oficiais estão em [REFERENCIAS.md](REFERENCIAS.md); as
+Res. 16/2019), o Código de Processamento Disciplinar (Res. CFP 11/2019; só a alteração pela
+Res. 26/2025 está no acervo), a Portaria CVS 1/2024 (licenciamento sanitário em SP) e as normas
+de São José dos Campos não fazem parte do acervo. A LC 214/2025 (IBS e CBS) consta do acervo só
+com os metadados, sem o texto. Os links oficiais estão em [REFERENCIAS.md](REFERENCIAS.md); as
 resoluções do CFP podem ser consultadas em https://atosoficiais.com.br/cfp.

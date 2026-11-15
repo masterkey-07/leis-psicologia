@@ -24,6 +24,8 @@ navegador. As normas copiadas do acervo estão em
 | CREPOP — Referências Técnicas | Referências técnicas por área (CAPS, atenção básica, violência, idosos etc.) | https://site.cfp.org.br/publicacoes/referencias-tecnicas-crepop/ |
 | Conselho Regional de Psicologia de SP (CRP-06) | Inscrição PF e **PJ da clínica**, responsável técnico, fiscalização, orientação | https://www.crpsp.org/ |
 | CRP-06 — Pessoa Jurídica e responsável técnico | Inscrição on-line da PJ, taxas, certificado de 3 anos, troca e desligamento de RT, cancelamento | https://www.crpsp.org/pagina/view/30 |
+| Código de Processamento Disciplinar (Res. CFP 11/2019) | Rito da denúncia ética: prazos de defesa, mediação, recurso, prescrição | https://site.cfp.org.br/legislacao/codigo-de-processamento-disciplinar/ |
+| CFP — psicologia e a reforma tributária | Redução de 60% do IBS/CBS para serviços de psicologia (LC 214/2025) | https://site.cfp.org.br/profissionais-da-psicologia-e-a-reforma-tributaria/ |
 
 ## 2. Saúde, vigilância sanitária e planos de saúde
 
@@ -55,7 +57,12 @@ A Câmara só respondeu por `http://` no teste.
 | Visa SJC — atividades de risco médio | Quando a licença dispensa inspeção prévia (Portaria CVS 1/2024) | https://www.sjc.sp.gov.br/servicos/saude/vigilancia-sanitaria/licenca-sanitaria/como-solicitar-o-licenciamento-sanitario-inicial/nivel-de-risco-medio/ |
 | Decreto municipal 20.211/2026 | Renovação anual da licença sanitária | https://servicos.sjc.sp.gov.br/Legislacao/Arquivos/Decretos/2026/DE_2026_00020211.pdf |
 | ISS eletrônico — SJC | Inscrição municipal e ISS do prestador de serviços | https://sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/emissao-da-nfe/iss-eletronico/ |
+| ISS Fixo — SJC | Valor anual do profissional pessoa física e da sociedade uniprofissional; tabela de valores, pagamento e LC municipal 272/2003 | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/iss-fixo/ |
+| ISS Fixo da sociedade uniprofissional — SJC | Requisitos para a sociedade de psicólogos pagar ISS por sócio | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/iss-fixo/sociedade-uniprofissional/ |
 | NFS-e Nacional em SJC — perguntas e respostas | Migração da emissão de notas para o Emissor Nacional (out/2026) | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/reforma-tributaria/nota-nacional/perguntas-e-respostas/ |
+| Certidão de Zoneamento — SJC | Confirmar se a atividade é permitida no endereço (consulta prévia, GeoSanja, contatos) | https://www.sjc.sp.gov.br/carta-de-servicos/cidadaos/urbanismo-e-sustentabilidade/planejamento-urbano/certidao-de-zoneamento/ |
+| Lei de Zoneamento — SJC | LC municipal 623/2019 e alterações, com anexos de classificação das atividades | https://www.sjc.sp.gov.br/servicos/urbanismo-e-sustentabilidade/planejamento-urbano/lei-de-parcelamento-uso-e-ocupacao-do-solo/lei-de-zoneamento/ |
+| Cadastro de empresas — SJC | Abertura, alteração e encerramento pelo Empresa Fácil; certidão de inscrição municipal | https://www.sjc.sp.gov.br/servicos/gestao-administrativa-e-financas/iss-e-taxas/cadastro-de-empresas/ |
 | Diário do Município de SJC | Publicação oficial de leis, decretos e portarias municipais | https://diariodomunicipio.sjc.sp.gov.br/ |
 | Câmara Municipal de São José dos Campos | Legislação municipal e projetos de lei | http://www.camarasjc.sp.gov.br/ |
 
@@ -66,7 +73,12 @@ A Câmara só respondeu por `http://` no teste.
 | ANPD — Autoridade Nacional de Proteção de Dados | Guias da LGPD; dados de saúde são dados sensíveis | https://www.gov.br/anpd/pt-br |
 | Procon-SP | Direitos do consumidor (contratos, cobrança, cancelamento) | https://www.procon.sp.gov.br/ |
 | Portal do Simples Nacional | Opção e obrigações do Simples (LC 123/2006) | https://www8.receita.fazenda.gov.br/simplesnacional/ |
+| Dmed — Receita Federal | Declaração anual de serviços de saúde da pessoa jurídica (IN RFB 2.074/2022) | https://www.gov.br/pt-br/servicos/declarar-servicos-medicos-e-da-saude |
 | NFS-e Nacional | Emissor nacional de nota fiscal de serviço | https://www.gov.br/nfse/pt-br |
+| Carnê-Leão — Receita Federal | Prazo (último dia útil do mês seguinte), DARF 0190, multa por atraso | https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/carne-leao |
+| LC 214/2025 compilada (Planalto) | Texto do IBS/CBS, incluindo o Anexo III (redução de 60% para psicologia) | https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214compilado.htm |
+| Corpo de Bombeiros da PM de SP | Licença AVCB/CLCB (Via Fácil), enquadramento de risco e instruções técnicas. O teste automatizado falha na verificação do certificado do site; abra no navegador | https://www.corpodebombeiros.sp.gov.br/ |
+| STF — Tema 1.389 (pejotização) | Andamento do julgamento sobre contratação de autônomos e PJs | https://noticias.stf.jus.br/postsnoticias/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts/ |
 | CONCLA/IBGE — CNAE 8650-0/03 † | Código de atividade "Atividades de psicologia e psicanálise" | https://concla.ibge.gov.br/busca-online-cnae.html?subclasse=8650003 |
 
 ## 5. Consulta de legislação e pesquisa

@@ -11,7 +11,7 @@ copies** of files from the parent corpus.
 
 ## Contents
 
-- `normas/` — 712 copied norms, mirroring their original path in the parent repo
+- `normas/` — 724 copied norms, mirroring their original path in the parent repo
   (e.g. `normas/federal/leis-ordinarias/1962/lei-4119-1962-08-27.md` is
   `../leis/federal/leis-ordinarias/1962/lei-4119-1962-08-27.md`). Each file starts with YAML
   frontmatter (`titulo`, `orgao`, `tipo`, `numero`, `data`, `ementa`, `revogada`, `fonte`).

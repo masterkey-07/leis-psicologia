@@ -1,5 +1,5 @@
 {
- "total": 712,
+ "total": 724,
  "missing": [],
  "files": [
   {
@@ -24,6 +24,10 @@
   },
   {
    "path": "federal/leis-ordinarias/1980/lei-6839-1980-10-30.md",
+   "category": "Profissão de psicólogo"
+  },
+  {
+   "path": "federal/leis-ordinarias/1980/lei-6838-1980-10-29.md",
    "category": "Profissão de psicólogo"
   },
   {
@@ -119,6 +123,14 @@
    "category": "Públicos vulneráveis"
   },
   {
+   "path": "federal/leis-ordinarias/2003/lei-10778-2003-11-24.md",
+   "category": "Públicos vulneráveis"
+  },
+  {
+   "path": "federal/leis-ordinarias/2022/lei-14344-2022-05-24.md",
+   "category": "Públicos vulneráveis"
+  },
+  {
    "path": "federal/leis-ordinarias/1990/lei-8078-1990-09-11.md",
    "category": "Consumidor, civil e penal"
   },
@@ -131,11 +143,23 @@
    "category": "Consumidor, civil e penal"
   },
   {
+   "path": "federal/leis-ordinarias/2010/lei-12291-2010-07-20.md",
+   "category": "Consumidor, civil e penal"
+  },
+  {
+   "path": "federal/decretos-lei/1941/del-3688-1941-10-03.md",
+   "category": "Consumidor, civil e penal"
+  },
+  {
    "path": "federal/leis-ordinarias/1998/lei-9656-1998-06-03.md",
    "category": "Planos de saúde"
   },
   {
    "path": "federal/leis-ordinarias/2000/lei-9961-2000-01-28.md",
+   "category": "Planos de saúde"
+  },
+  {
+   "path": "federal/leis-ordinarias/2022/lei-14454-2022-09-21.md",
    "category": "Planos de saúde"
   },
   {
@@ -163,11 +187,35 @@
    "category": "Sanitário, tributário e trabalhista"
   },
   {
+   "path": "federal/decretos-lei/1968/del-406-1968-12-31.md",
+   "category": "Sanitário, tributário e trabalhista"
+  },
+  {
+   "path": "federal/leis-ordinarias/2019/lei-13874-2019-09-20.md",
+   "category": "Sanitário, tributário e trabalhista"
+  },
+  {
+   "path": "federal/leis-ordinarias/1991/lei-8212-1991-07-24.md",
+   "category": "Sanitário, tributário e trabalhista"
+  },
+  {
+   "path": "federal/leis-ordinarias/2003/lei-10666-2003-05-08.md",
+   "category": "Sanitário, tributário e trabalhista"
+  },
+  {
    "path": "estaduais/SP/leis-ordinarias/1998/lei-10083-1998-09-23-id7021.md",
    "category": "Estado de São Paulo — essenciais"
   },
   {
    "path": "estaduais/SP/leis-ordinarias/1999/lei-10241-1999-03-17-id7653.md",
+   "category": "Estado de São Paulo — essenciais"
+  },
+  {
+   "path": "estaduais/SP/leis-ordinarias/2023/lei-17761-2023-09-25-id208561.md",
+   "category": "Estado de São Paulo — essenciais"
+  },
+  {
+   "path": "estaduais/SP/decretos/2024/dec-69118-2024-12-09-id210303.md",
    "category": "Estado de São Paulo — essenciais"
   },
   {
